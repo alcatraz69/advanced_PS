@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="487.492" height="284.34" viewBox="0 0 487.492 284.34">
+  <defs>
+    <filter id="Path_1" x="0" y="0" width="249.84" height="153.1" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.78"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2" x="237.503" y="0" width="249.988" height="153.186" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.78"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_2-2" x="235.442" y="62.873" width="234.418" height="146.411" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.651"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_4" x="16.197" y="60.575" width="236.786" height="146.826" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.651"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_3" x="12.396" y="91.269" width="101.559" height="114.479" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_5" x="373.328" y="91.403" width="101.554" height="114.474" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-opacity="0.31"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-184.379 -73.66)">
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_1)">
+      <path id="Path_1-2" data-name="Path 1" d="M1621.98,529.052v48.4l-213.164-80.323-18.677-54.777Z" transform="translate(-1381.14 -436.35)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_2)">
+      <path id="Path_2-3" data-name="Path 2" d="M1390.14,529.107v48.43l213.3-80.374,18.689-54.812Z" transform="translate(-1143.64 -436.35)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_2-2)">
+      <path id="Path_2-4" data-name="Path 2" d="M1389.166,527.637l.16,48.13,214.114-78.6V451.076Z" transform="matrix(1, -0.02, 0.02, 1, -1152.38, -354.15)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_4)">
+      <path id="Path_4-2" data-name="Path 4" d="M1603.836,527.778l1.966,48.362-216.636-78.891V451.076Z" transform="translate(-1353.7 -408.68) rotate(1)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M53.5,0,88.785,23.8,15.8,40.9,0,36Z" transform="translate(55.31 97.27) rotate(56)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 184.38, 73.66)" filter="url(#Path_5)">
+      <path id="Path_5-2" data-name="Path 5" d="M53.5,40.9,88.78,17.1,39.605,5.579,15.8,0,0,4.9Z" transform="translate(465.88 120.28) rotate(124)" fill="#fff"/>
+    </g>
+    <text id="PREM" transform="translate(381 313)" fill="#fff" font-size="28" font-family="Nunito-SemiBold, Nunito" font-weight="600" letter-spacing="0.216em"><tspan x="0" y="0">PREM</tspan></text>
+    <text id="KANTIKAR" transform="translate(342 349)" fill="#fff" font-size="26" font-family="Nunito-Regular, Nunito" letter-spacing="0.24em"><tspan x="0" y="0">KANTIKAR</tspan></text>
+  </g>
+</svg>
