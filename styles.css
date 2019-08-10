@@ -67,8 +67,8 @@ li a{
     flex-direction: column;
     z-index: 2;
     clip-path: circle(2.6% at 91.6% 4.8%);
-    -webkit-clip-path: circle(2,6% at 91.6% 4.8%);
-    transition: all .7s ease-out;
+    -webkit-clip-path: circle(2.6% at 91.6% 4.8%);
+    transition: all .5s ease-out;
     
 }
 
@@ -309,7 +309,7 @@ p{
     z-index: 2;
     clip-path: circle(2.6% at 91.6% 4.8%);
     -webkit-clip-path: circle(3.6% at 81.6% 4.8%);
-    transition: all .7s ease-out;
+    transition: all .5s ease-out;
     
 }
 
