@@ -35,6 +35,22 @@ h1{
     left: 47%;
 }
 
+.main-text{
+    animation: yourAnimation 1s forwards 0s ease-in;
+}
+
+@keyframes yourAnimation{
+    0%{
+        transform: rotate(0) translateY(-25px);
+        opacity: 0;
+        }
+    100%{
+        transform: rotate(0);
+        opacity: 1;
+        }
+}
+
+
 .main-subtitle{
     color: #fff;
     font-size: 22px;
@@ -215,7 +231,7 @@ p{
 
 .top{
     min-height: 100vh;
-    background-image: url("CSS - My Site Images/d2.jpg");
+    background-image: url("CSS - My Site Images/cd2.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-position: center center;
