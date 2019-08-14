@@ -301,10 +301,11 @@ p{
     align-items: center;
     margin-left: auto;
     margin-top: 0;
+    padding-right:49px;
     position: fixed;
     background: #3f4f61;
     height: 100vh;
-    width: 100%;
+    width: 80%;
     flex-direction: column;
     z-index: 2;
     clip-path: circle(2.6% at 91.6% 4.8%);
@@ -315,8 +316,8 @@ p{
 
 #main-menu.open{
     clip-path: circle(135% at 90% -10%);
-    -webkit-clip-path: circle(135% at 90% -10%);
-    opacity: 0.9;
+    -webkit-clip-path: circle(150% at 90% -10%);
+    opacity: 1;
 }
 
 #main-menu a{
