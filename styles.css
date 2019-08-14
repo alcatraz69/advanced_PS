@@ -36,7 +36,7 @@ h1{
 }
 
 .main-text{
-    animation: yourAnimation 1s forwards 2.3s ease-in;
+    animation: yourAnimation 1s forwards 2s ease-in;
 }
 
 @keyframes yourAnimation{
